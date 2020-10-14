@@ -1,2 +1,2 @@
 # Django Microblogging Website  
-Simple microbloggin webiste using **Django Framework**
+Simple microblogging webiste using **Django Framework**
